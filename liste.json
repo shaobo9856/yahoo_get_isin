@@ -1,0 +1,102 @@
+[
+  {
+    "code": "^OEX",
+    "filename": "SP_100.csv"
+  },
+  {
+    "code": "^SP100TR",
+    "filename": "116536176.csv"
+  },
+  {
+    "code": "^SPUST2TR",
+    "filename": "106376073.csv"
+  },
+  {
+    "code": "^SPUST5TR",
+    "filename": "106376075.csv"
+  },
+  {
+    "code": "^SP500NTR",
+    "filename": "107617249.csv"
+  },
+  {
+    "code": "^SPCBMIREMUSD",
+    "filename": "106375774.csv"
+  },
+  {
+    "code": "^SPEUBDTR",
+    "filename": "107617275.csv"
+  },
+  {
+    "code": "^SBBMGLU",
+    "filename": "114382335.csv"
+  },
+  {
+    "code": "^SPGSCLP",
+    "filename": "106375872.csv"
+  },
+  {
+    "code": "^SPGSGC",
+    "filename": "106375894.csv"
+  },
+  {
+    "code": "^SPGSCITR",
+    "filename": "106465725.csv"
+  },
+  {
+    "code": "^SP400G",
+    "filename": "106375659.csv"
+  },
+  {
+    "code": "^SP4LVI",
+    "filename": "109352908.csv"
+  },
+  {
+    "code": "^SPMPG",
+    "filename": "106375660.csv"
+  },
+  {
+    "code": "^SPMPV",
+    "filename": "106375661.csv"
+  },
+  {
+    "code": "^SP400V",
+    "filename": "106375662.csv"
+  },
+  {
+    "code": "^SP600G",
+    "filename": "106375722.csv"
+  },
+  {
+    "code": "^SP600",
+    "filename": "106375711.csv"
+  },
+  {
+    "code": "^SP6LVI",
+    "filename": "109352906.csv"
+  },
+  {
+    "code": "^SPXPG",
+    "filename": "106375723.csv"
+  },
+  {
+    "code": "^SPSPV",
+    "filename": "106375724.csv"
+  },
+  {
+    "code": "^SP600V",
+    "filename": "106375725.csv"
+  },
+  {
+    "code": "^SPTOPIXUSDNTRWM",
+    "filename": "110839612.csv"
+  },
+  {
+    "code": "^SPUSTUTR",
+    "filename": "106376080.csv"
+  }
+]
+
+
+
+
